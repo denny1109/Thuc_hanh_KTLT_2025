@@ -2,7 +2,7 @@ a,b=1,2
 """1 và 2 là 2 số đầu của dãy fibonaci"""
 tong = 0
 print(a,end=" ")
-while (a <= 4000000-1):
+while (b <= 4000000-1):
     if a%2==0:
         tong +=a
     a,b=b,a+b
