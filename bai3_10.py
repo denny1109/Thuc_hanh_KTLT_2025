@@ -1,5 +1,5 @@
 print("Phạm Trọng Phúc")
-print("MSSV:235752021710029")
+print("MSSV:235752020710029")
 
 import math
 
